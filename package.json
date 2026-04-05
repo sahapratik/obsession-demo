@@ -1,0 +1,48 @@
+{
+  "name": "obsession-fragrance",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.18",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "mongoose": "8.8.4",
+    "next-auth": "4.24.11",
+    "bcryptjs": "2.4.3",
+    "stripe": "17.5.0",
+    "framer-motion": "11.14.4",
+    "gsap": "3.12.5",
+    "react-hook-form": "7.54.2",
+    "zod": "3.24.1",
+    "zustand": "5.0.2",
+    "axios": "1.7.9",
+    "date-fns": "4.1.0",
+    "react-hot-toast": "2.4.1",
+    "lucide-react": "0.469.0",
+    "sharp": "0.33.5",
+    "@tailwindcss/forms": "0.5.9",
+    "@tailwindcss/typography": "0.5.15"
+  },
+  "devDependencies": {
+    "@types/node": "22.10.2",
+    "@types/react": "18.3.17",
+    "@types/react-dom": "18.3.5",
+    "@types/bcryptjs": "2.4.6",
+    "typescript": "5.7.2",
+    "autoprefixer": "10.4.20",
+    "postcss": "8.4.49",
+    "tailwindcss": "3.4.17",
+    "eslint": "8.57.1",
+    "eslint-config-next": "14.2.18"
+  },
+  "engines": {
+    "node": ">=18.17.0",
+    "npm": ">=9.0.0"
+  }
+}
